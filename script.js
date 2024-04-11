@@ -20,4 +20,3 @@ function movement() {
     const angleSeconds = 360 / (60 / seconds);
     secondsHand.style = `transform: rotate(${angleSeconds}deg)`;
 }
-

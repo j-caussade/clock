@@ -66,32 +66,8 @@ main {
     top: calc(50% - 225px);
 }
 
-#one {
-    position: relative;
-    transform-origin: 0 225px;
-    transform: rotate(30deg);
-}
-
-#two {
-    top: calc(50% - 225px);
-    transform-origin: 0 225px;
-    transform: rotate(60deg);
-}
-
 #three {
     right: calc(50% - 225px);
-}
-
-#for {
-    right: calc(50% - 225px);
-    transform-origin: -225px 0;
-    transform: rotate(30deg);
-}
-
-#five {
-    right: calc(50% - 225px);
-    transform-origin: -225px 0;
-    transform: rotate(55deg);
 }
 
 #six {
